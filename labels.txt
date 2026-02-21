@@ -1,0 +1,10 @@
+0 Tomato_Healthy
+1 Tomato_LateBlight
+2 Tomato_EarlyBlight
+3 Potato_Healthy
+4 Potato_LateBlight
+5 Potato_EarlyBlight
+6 Pepper_Healthy
+7 Pepper_BacterialSpot
+8 MoneyPlant_Healthy
+9 MoneyPlant_LeafSpot
